@@ -15,6 +15,11 @@
     <hr>
     <img src="proxy_generated_from_wsdl.PNG" height="500px">
     <img src="Consommation_ws.PNG" height="500px">
+    <h1>Test Serialisation</h1>
+    <img src="TestSerialisationJaxB1.PNG" height="500px">
+    <img src="TestSerialisationJAXB2.PNG" height="500px">
+    <h1>Deserialisation</h1>
+    <img src="Deserialisation.PNG">
     
     
 </body>
